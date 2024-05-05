@@ -1,5 +1,5 @@
 
-he Internship Duration Was from june,2023 to July 2023.
+The Internship Duration Was from june,2023 to July 2023.
 In the Duration I did:-
 
 -Developed a website and hosted it online for the Company Medcords as their side project named as Anandam Infolines.
